@@ -1,0 +1,24 @@
+Please use this issue tracker exclusivley for reporting bugs with our nextjs starterkit. If you have a new feature request, please add an issue in our [Reaction Feature Requests](https://github.com/reactioncommerce/reaction-feature-requests) repository.
+
+Are you looking for help with getting started on Reaction? Please visit our [Reaction documentation](https://docs.reactioncommerce.com/reaction-docs/master/getting-started-developing-with-reaction).
+
+## Prerequisites
+* [ ] Are you running the latest version?
+* [ ] Are you able to consistently reproduce the issue?
+* [ ] Did you search the issue queue for existing issue? [Search issues](https://github.com/reactioncommerce/reaction/issues)
+
+## Issue Description
+Providing a clear description of the issue will enable a developer to quickly reproduce and understand the issue. Please provide a detailed description including images, animation and/or videos. For client issues, include browser console errors, for server issues please add terminal output and stack traces.
+
+## Steps to Reproduce
+Please provide starting context, i.e. logged in as a user, configure a particular payment method.
+1.
+2.
+3.
+
+## Possible Solution
+Not obligatory, but suggest a fix/reason for the bug
+
+
+### Versions
+(run `reaction -v` from your reaction directory)
