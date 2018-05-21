@@ -5,6 +5,7 @@ import { withStyles } from "material-ui/styles";
 import ProductItem from "components/ProductItem";
 import PageStepper from "components/PageStepper";
 import PageSizeSelector from "components/PageSizeSelector";
+import GridSortSelector from "components/GridSortSelector";
 
 const styles = () => ({
   productGridContainer: {
@@ -55,6 +56,9 @@ export default class ProductGrid extends Component {
       <Grid container spacing={24} className={classes.pageSizeContainer}>
         <Grid item>
           <PageSizeSelector />
+        </Grid>
+        <Grid item>
+          <GridSortSelector />
         </Grid>
       </Grid>
     )
